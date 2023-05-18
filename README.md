@@ -1,3 +1,3 @@
 # dockerTest
 
-# docker git 연동 학습
+* docker git 연동 학습
